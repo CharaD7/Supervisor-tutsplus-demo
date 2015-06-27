@@ -1,0 +1,2 @@
+This file should be placed in "/etc/" folder for system wide configuration.
+For configuration inside a virtualenv, place this file inside a folder named "etc" inside the virtualenv.
